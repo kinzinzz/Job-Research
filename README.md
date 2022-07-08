@@ -2,7 +2,7 @@
 
 - ### 요기요
 
-  - #### 직군 : Backend Developer (Python/Senior)
+  - #### 직군 : Backend Developer (Python)
 
   
 
